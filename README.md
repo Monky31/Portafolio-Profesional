@@ -28,7 +28,7 @@ El sitio se adapta a pantallas pequeñas (celular), medianas (tablet) y grandes 
 
 1. Clona el repositorio:
 ```bash
-   git clone <URL-del-repositorio> perfil-profesional
+   git clone <(https://github.com/Monky31/Portafolio-Profesional.git)> perfil-profesional
 ```
 2. Abre el archivo `index.html` en tu navegador.
 
